@@ -1,6 +1,14 @@
 Features:
 
-User Login
+User Login with Two-Factor Authentication
+-
 Task Creation
+-
+Basic Dashboard
+
+Two-Factor Authentication, Security Monitoring
+=======
+Security Monitoring
 Advanced Dashboard with Analytics
 Team Collaboration
+Advanced Dashboard, Team Collaboration
